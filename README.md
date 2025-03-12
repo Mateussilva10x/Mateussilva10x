@@ -1,5 +1,7 @@
 # 💫 About Me:
-i'm working on Checkplant Sistemas S/A, as a front end developer<br>I'm Studding about next.js, react.js and Angular<br>
+👋 Hi there! I'm a Front-End Engineer specializing in Angular and React, passionate about building scalable and high-performance applications. I'm constantly improving my skills, exploring front-end architecture, and seeking new challenges to enhance user experiences across diverse projects.
+
+🚀 Let's connect and build something great!
 
 
 ## 🌐 Socials:
